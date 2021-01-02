@@ -1,6 +1,8 @@
 > Anything in this template can be edited or deleted in order to make it more related to the topic
 
 > Each template can be initialized with a project that makes it easy for others to tell how complete it is
+
+> Repos can be initialized with an X0 "number" if you are not sure where it goes in the number tree
 # Topic Name
 
 ## Description
