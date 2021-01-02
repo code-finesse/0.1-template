@@ -1,4 +1,6 @@
-> Anything in this template can be edited or deleted in order to make it 
+> Anything in this template can be edited or deleted in order to make it
+
+> Each template can have a project that makes it easy for others to tell how complete it is
 # Topic Name
 
 ## Description
