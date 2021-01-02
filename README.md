@@ -15,6 +15,7 @@ Things to have installed or set up before diving into the code
 * install 1
 * install 2
 * install 3
+* maybe there are no installs and this can just be run in the browser
 
 ## Extra Things to Note
 Users should keep these things in mind. Let them know things won't work unless they have done these
@@ -23,4 +24,4 @@ Users should keep these things in mind. Let them know things won't work unless t
 * Superusers should have this permission to do that
 
 ## How To Navigate (if necessary)
-Simple explanation of how to navigate the project folders
+Simple explanation of how to navigate the project folders (if not already explained in the project's README.md)
